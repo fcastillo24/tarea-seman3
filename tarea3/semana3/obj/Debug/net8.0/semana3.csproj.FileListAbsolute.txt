@@ -1,0 +1,14 @@
+C:\Users\fredy\OneDrive\Escritorio\semana3\semana3\bin\Debug\net8.0\semana3.exe
+C:\Users\fredy\OneDrive\Escritorio\semana3\semana3\bin\Debug\net8.0\semana3.deps.json
+C:\Users\fredy\OneDrive\Escritorio\semana3\semana3\bin\Debug\net8.0\semana3.runtimeconfig.json
+C:\Users\fredy\OneDrive\Escritorio\semana3\semana3\bin\Debug\net8.0\semana3.dll
+C:\Users\fredy\OneDrive\Escritorio\semana3\semana3\bin\Debug\net8.0\semana3.pdb
+C:\Users\fredy\OneDrive\Escritorio\semana3\semana3\obj\Debug\net8.0\semana3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredy\OneDrive\Escritorio\semana3\semana3\obj\Debug\net8.0\semana3.AssemblyInfoInputs.cache
+C:\Users\fredy\OneDrive\Escritorio\semana3\semana3\obj\Debug\net8.0\semana3.AssemblyInfo.cs
+C:\Users\fredy\OneDrive\Escritorio\semana3\semana3\obj\Debug\net8.0\semana3.csproj.CoreCompileInputs.cache
+C:\Users\fredy\OneDrive\Escritorio\semana3\semana3\obj\Debug\net8.0\semana3.dll
+C:\Users\fredy\OneDrive\Escritorio\semana3\semana3\obj\Debug\net8.0\refint\semana3.dll
+C:\Users\fredy\OneDrive\Escritorio\semana3\semana3\obj\Debug\net8.0\semana3.pdb
+C:\Users\fredy\OneDrive\Escritorio\semana3\semana3\obj\Debug\net8.0\semana3.genruntimeconfig.cache
+C:\Users\fredy\OneDrive\Escritorio\semana3\semana3\obj\Debug\net8.0\ref\semana3.dll

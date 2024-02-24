@@ -1,0 +1,14 @@
+C:\Users\fredy\OneDrive\Escritorio\semana3\ejerciciosSwitch\bin\Debug\net8.0\ejerciciosSwitch.exe
+C:\Users\fredy\OneDrive\Escritorio\semana3\ejerciciosSwitch\bin\Debug\net8.0\ejerciciosSwitch.deps.json
+C:\Users\fredy\OneDrive\Escritorio\semana3\ejerciciosSwitch\bin\Debug\net8.0\ejerciciosSwitch.runtimeconfig.json
+C:\Users\fredy\OneDrive\Escritorio\semana3\ejerciciosSwitch\bin\Debug\net8.0\ejerciciosSwitch.dll
+C:\Users\fredy\OneDrive\Escritorio\semana3\ejerciciosSwitch\bin\Debug\net8.0\ejerciciosSwitch.pdb
+C:\Users\fredy\OneDrive\Escritorio\semana3\ejerciciosSwitch\obj\Debug\net8.0\ejerciciosSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredy\OneDrive\Escritorio\semana3\ejerciciosSwitch\obj\Debug\net8.0\ejerciciosSwitch.AssemblyInfoInputs.cache
+C:\Users\fredy\OneDrive\Escritorio\semana3\ejerciciosSwitch\obj\Debug\net8.0\ejerciciosSwitch.AssemblyInfo.cs
+C:\Users\fredy\OneDrive\Escritorio\semana3\ejerciciosSwitch\obj\Debug\net8.0\ejerciciosSwitch.csproj.CoreCompileInputs.cache
+C:\Users\fredy\OneDrive\Escritorio\semana3\ejerciciosSwitch\obj\Debug\net8.0\ejerciciosSwitch.dll
+C:\Users\fredy\OneDrive\Escritorio\semana3\ejerciciosSwitch\obj\Debug\net8.0\refint\ejerciciosSwitch.dll
+C:\Users\fredy\OneDrive\Escritorio\semana3\ejerciciosSwitch\obj\Debug\net8.0\ejerciciosSwitch.pdb
+C:\Users\fredy\OneDrive\Escritorio\semana3\ejerciciosSwitch\obj\Debug\net8.0\ejerciciosSwitch.genruntimeconfig.cache
+C:\Users\fredy\OneDrive\Escritorio\semana3\ejerciciosSwitch\obj\Debug\net8.0\ref\ejerciciosSwitch.dll
